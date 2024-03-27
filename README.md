@@ -1,81 +1,48 @@
 # Swapnil Kshirsagar
 
-👨‍💻 Aspiring Full Stack Developer | 🌱 Eager Learner | 🚀 Passionate about Crafting Responsive Web Applications
+🌟 Aspiring Full Stack Developer eager to learn and specialize in the MERN stack. Passionate about crafting responsive and efficient web applications, and excited to contribute to dynamic projects while staying updated on the latest technologies.
 
 ---
 
-## About Me
+## Education       ## Experience
 
-Hi there! I'm Swapnil Kshirsagar, a Full Stack Developer based in Solapur, Maharashtra. I'm enthusiastic about learning and specializing in the MERN stack. Crafting efficient and responsive web applications excites me, and I'm keen on contributing to dynamic projects while staying updated on the latest technologies.
-
----
-
-## Education
-
-- **Bachelors in Computer Science**  
-  Sangmeshwar College, Solapur, Maharashtra  
-  Graduated: 07/2022  
-  CGPA: 9.1
-
----
-
-## Experience
-
-**Full-Stack Web Developer Trainee**  
-Alma-Better (Remote), Solapur, Maharashtra  
-02/2023 - Present
-
-- Developed and deployed feature-rich, responsive full-stack web applications with authentication using the MERN stack.
-- Followed industry best practices for efficient development.
+🎓 **Bachelors in Computer Science**  
+   Sangmeshwar College, Solapur, Maharashtra  
+   Graduated: 07/2022  
+   CGPA: 9.1            💼 **Alma-Better (Remote)**  
+                        *Full-Stack Web Developer Trainee*, Solapur, Maharashtra  
+                        Duration: 02/2023 - Present  
+                        - Developed and deployed feature-rich, responsive, full-stack web applications with authentication using the MERN stack, following industry best practices.
 
 ---
 
 ## Academic Projects
 
-### Chit-Chat (Live Chatting App)
+1. **Chit-Chat (Live chatting app)**
+   - Built and deployed a responsive chatting app using React and Tailwind CSS for the front end, Node.js, Express.js, and MongoDB for the back end.
+   - Implemented JWT tokens for authentication and bcrypt for password hashing, ensuring secure user data handling.
 
-- Built and deployed a responsive chatting app using React, Tailwind CSS, Node.js, Express.js, and MongoDB.
-- Implemented JWT tokens for authentication and bcrypt for password hashing.
+2. **Cryptocurrency Dashboard**
+   - A web application providing real-time cryptocurrency information, including global crypto statistics, detailed coin data, historical price data.
+   - Utilized React for frontend, incorporated various technologies including Chart.js and react-chartjs-2 for displaying historical price graphs, Material-UI for styling and components.
+   - Implemented responsive design practices, following a mobile-first approach for optimal user experience on various devices.
 
-### Cryptocurrency Dashboard
-
-- Developed a web application providing real-time cryptocurrency information using React, Chart.js, and Material-UI.
-- Followed a mobile-first approach for optimal user experience.
-
-### Get-YouTube-Subscriber
-
-- Developed a Node.js application with MongoDB for YouTube subscriber management.
-- Implemented Bootstrap-styled frontend with API endpoints for listing and adding subscribers.
-
----
-
-## Skills
-
-- Web Development
-- ReactJS
-- JavaScript
-- MongoDB
-- Node.js
-- ExpressJS
+3. **Get-YouTube-Subscriber**
+   - Node.js application with MongoDB for YouTube subscriber management.
+   - Bootstrap-styled frontend with API endpoints for listing and adding subscribers.
+   - Simple installation, local setup, and features like fetching details and refreshing the database with sample data.
 
 ---
 
-## Certificates
+## Skills            ## Contact Information
 
-- Full-Stack Web Development - Alma Better
-- Postman API Fundamentals - Postman
-
----
-
-## Contact Me
-
-📧 Email: swapnilsk999@gmail.com  
-📱 Phone: 9175066957  
-📍 Location: Solapur, Maharashtra
+💻 Web Development, ReactJS, Javascript, MongoDB, Node.js, ExpressJS    📧 **Email:** swapnilsk999@gmail.com  
+                                                                       📱 **Phone:** 9175066957
 
 ---
 
-## Social Links
+## Certificates      ## Social Links
 
-[GitHub](#) | [LinkedIn](#)
+🎖️ **Full-Stack Web Development** - Alma Better                      🔗 [GitHub](https://github.com/yourusername)  
+🎖️ **Postman API Fundamentals** - Postman                            🔗 [LinkedIn](https://linkedin.com/in/yourusername)
 
