@@ -17,17 +17,6 @@ Alma-Better (Remote), Solapur, Maharashtra
 - Developed and deployed feature-rich, responsive full-stack web applications with authentication using the MERN stack.
 - Followed industry best practices for efficient development.
 
-## Academic Projects
-### Chit-Chat (Live Chatting App)
-- Built and deployed a responsive chatting app using React, Tailwind CSS, Node.js, Express.js, and MongoDB.
-- Implemented JWT tokens for authentication and bcrypt for password hashing.
-### Cryptocurrency Dashboard
-- Developed a web application providing real-time cryptocurrency information using React, Chart.js, and Material-UI.
-- Followed a mobile-first approach for optimal user experience.
-### Get-YouTube-Subscriber
-- Developed a Node.js application with MongoDB for YouTube subscriber management.
-- Implemented Bootstrap-styled frontend with API endpoints for listing and adding subscribers.
-
 ## Skills
 - Web Development
 - ReactJS
